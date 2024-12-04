@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dpei_2</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_degree">Student Degree</string>
+    <string name="open_map">Open Map</string>
+    <string name="pick_image">Pick Image</string>
+</resources>
